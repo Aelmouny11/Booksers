@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import Search from "./search";
 const links = ["Home", "Catgories", "About", "Support"];
 
